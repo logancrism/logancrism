@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cristihan Monroy</h1>
-<h3 align="center">A passionate frontend developer Colombia</h3>
+<h3 align="center">A passionate developer full stack Colombia</h3>
 
 - 🌱 I’m currently learning **php, mysql, aws, laravel, angularjs, vuejs**
 
